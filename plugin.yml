@@ -1,0 +1,5 @@
+name: CustomCommands
+version: 1.0.0-beta
+api: 3.0.0
+author: refaltor
+main: refaltor\CustomCommands\Main
